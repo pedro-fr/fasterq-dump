@@ -18,7 +18,8 @@ To use fasterq-dump, run the script with the desired SRA accession number:
 ./fasterq-dump.sh SRR1234567
 ```
 
-Replace `SRR1234567` with your specific SRA accession number.
+Replace `SRR1234567` with your specific SRA accession number. You also can 
+provide a SRR_Acc_List.txt file with the accession numbers.
 
 ## Requirements
 
